@@ -1,0 +1,10 @@
+call plug#begin('~/.vim/plugged')
+# Plug 'flazz/vim-colorschemes'
+Plug 'vim-airline/vim-airline-themes'
+Plug 'vim-airline/vim-airline'
+call plug#end()
+
+#understated
+#let g:airline_theme='papercolor'
+#let g:airline_theme='understated'
+let g:airline_theme='zenburn'
