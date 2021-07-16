@@ -9,7 +9,7 @@
 * Icons     : Papirus-custom (From [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles))
 * OS        : Alter Linux
 * Terminal  : Kitty
-* Bar       : [addy1090x/Polybar](https://github.com/adi1090x/polybar-themes)
+* Bar       : [adi1090x/Polybar](https://github.com/adi1090x/polybar-themes)
 
 # Installation
 * Clone this repository
