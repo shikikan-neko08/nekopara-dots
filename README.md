@@ -17,3 +17,6 @@
 * copy all .config files to your .config directory
 * copy all .themes, .icons folders to your home directory
 * install oh-my zsh then manually move ohmyzsh directory as well as zshrc
+
+# Notes
+* 
